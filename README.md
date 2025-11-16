@@ -87,7 +87,7 @@
             <a href="#" class="button join-button">Join Now!</a>
             <a href="#" class="button contact-button">Contact Now!</a>
                 <div class="header-image">
-                    <img src="Screenshot 2025-111-16-181434.png" alt="Milk Tea">
+                    <img src="Screenshot 2025-11-16 181434.png" alt="Milk Tea">
                 </div>
             </div>
             <div class = "Order">
@@ -103,7 +103,7 @@
                 <p>Confirm their order if you take it correctly.</p>
             </div>
                 <div class="section-image">
-                    <img src="ordering.png" alt="Ordering Area">
+                    <img src="Screenshot 2025-11-16 184040.png" alt="Ordering Area">
                 </div>
 </body>
 </html>
