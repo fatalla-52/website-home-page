@@ -82,8 +82,6 @@
     </style>
 </head>
 <body>
-    <div class="container"
-    <div class="top-bar"
      <div class= "milk tea ">
          <h1>MILK TEA TOUR</h1>
             <p>Make yourself learn about Milk Tea!</p>
