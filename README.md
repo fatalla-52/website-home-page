@@ -38,7 +38,6 @@
             display: inline-block;
             padding: 10px 20px;
             margin: 10px 5px;
-            text-decoration: none;
             border-radius: 5px;
             font-size: 1em;
         }
@@ -55,7 +54,6 @@
             margin-bottom: 15px;
         }
         .ul {
-            list-style-type: disc;
             margin-left: 20px;
         }
         .li {
