@@ -82,7 +82,8 @@
     </style>
 </head>
 <body>
-     <div class= "milk tea ">
+    <div clas="top-bar">
+     <div class= "milk tea">
          <h1>MILK TEA TOUR</h1>
             <p>Make yourself learn about Milk Tea!</p>
             <p>This website is dedicated to showcasing and educating about milk tea.
