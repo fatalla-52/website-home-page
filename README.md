@@ -80,16 +80,14 @@
     </style>
 </head>
 <body>
-
-            <div class = "milk tea ">
-                <h1>MILK TEA TOUR</h1>
-                <p>Make yourself learn about Milk Tea!</p>
-                <p>This website is dedicated to showcasing and educating about milk tea.
+     <div class = "milk tea ">
+         <h1>MILK TEA TOUR</h1>
+            <p>Make yourself learn about Milk Tea!</p>
+            <p>This website is dedicated to showcasing and educating about milk tea.
                 It will serve those who want to learn new skills to make their own milk tea. 
                 I hope you enjoy and learn a lot from our lesson in this milk tea tour.</p>
-                <a href="#" class="button join-button">Join Now!</a>
-                <a href="#" class="button contact-button">Contact Now!</a>
-            </div>
+            <a href="#" class="button join-button">Join Now!</a>
+            <a href="#" class="button contact-button">Contact Now!</a>
                 <div class="header-image">
                     <img src="milktea.png" alt="Milk Tea Image">
                 </div>
