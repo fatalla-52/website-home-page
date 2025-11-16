@@ -84,16 +84,16 @@
             <div class = "milk tea ">
                 <h1>MILK TEA TOUR</h1>
                 <p>Make yourself learn about Milk Tea!</p>
-                <p>This website is dedicated to showcasing and educating about milk tea. It will serve those who want to learn new skills to make their own milk tea. I hope you enjoy and learn a lot from our lesson in this milk tea tour.</p>
+                <p>This website is dedicated to showcasing and educating about milk tea.
+                It will serve those who want to learn new skills to make their own milk tea. 
+                I hope you enjoy and learn a lot from our lesson in this milk tea tour.</p>
                 <a href="#" class="button join-button">Join Now!</a>
                 <a href="#" class="button contact-button">Contact Now!</a>
             </div>
-            <div class = "col-6">
                 <div class="header-image">
                     <img src="milktea.png" alt="Milk Tea Image">
                 </div>
             </div>
-        </section>
             <div class = "Order">
                 <p>Greet the customer politely.</p>
                 <p>Ask for their milk tea choice:</p>
@@ -106,7 +106,6 @@
                 </ul>
                 <p>Confirm their order if you take it correctly.</p>
             </div>
-            <div class = "col-6
                 <div class="section-image">
                     <img src="ordering.png" alt="Ordering Area">
                 </div>
