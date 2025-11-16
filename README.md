@@ -15,6 +15,10 @@
         .container {
             width: 80%;
         }
+        .top-bar {
+            display: flex
+            padding: 5px;
+            }
         .header-section {
             padding: 20px;
             text-align: left;
