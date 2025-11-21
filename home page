@@ -110,6 +110,11 @@
                 <div class="section-image">
                     <img src="Screenshot 2025-11-16 184040.png" alt="Ordering Area">
                 </div>
+         <nav>
+    <a href="#home">Home</a>
+    <a href="#learn">Learn</a>
+    <a href="#contact">Contact</a>
+  </nav>
 </body>
 </html>
 
