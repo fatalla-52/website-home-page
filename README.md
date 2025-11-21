@@ -82,6 +82,8 @@
     </style>
 </head>
 <body>
+    <nav> 
+        <a heref
     <div clas="top-bar">
      <div class= "milk tea">
          <h1>MILK TEA TOUR</h1>
@@ -99,7 +101,7 @@
                 <p>Greet the customer politely.</p>
                 <p>Ask for their milk tea choice:</p>
                 <ul>
-                    <li>Ask what flavor they want.</li>
+                    <li>Ask what flavor they want.</li> 
                     <li>The size (small, medium, large).</li>
                     <li>The sugar level (0%, 25%, 50%, 75%, 100%).</li>
                     <li>Ask them if they want an extra tapioca.</li>
@@ -110,11 +112,6 @@
                 <div class="section-image">
                     <img src="Screenshot 2025-11-16 184040.png" alt="Ordering Area">
                 </div>
-         <nav>
-    <a href="#home">Home</a>
-    <a href="#learn">Learn</a>
-    <a href="#contact">Contact</a>
-  </nav>
+        </section>
 </body>
 </html>
-
