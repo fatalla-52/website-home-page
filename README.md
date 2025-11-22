@@ -81,11 +81,15 @@
             }
     </style>
 </head>
-<body>
-    <nav> 
-        <a heref
-    <div clas="top-bar">
-     <div class= "milk tea">
+    <body>
+ <div clas="top-bar">
+ <div class= "milk tea">
+    <nav>
+     <a href="#home">Home</a>
+     <a href="#learn">Learn</a>
+     <a href="#contact">Contact</a>
+     </nav>
+             
          <h1>MILK TEA TOUR</h1>
             <p>Make yourself learn about Milk Tea!</p>
             <p>This website is dedicated to showcasing and educating about milk tea.
