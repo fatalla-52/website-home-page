@@ -12,11 +12,6 @@
             background-color: #f0ead6;
             color: #333;
         }
-    .nav  {
-        padding: 20;
-        text-align: center; 
-        font-weight: bold;
-    }
         .container {
             width: 80%;
         }
