@@ -48,7 +48,6 @@
         padding: 12px 25px;
         border-radius: 8px;
         color: #fff;
-        text-decoration: none;
         margin-right: 10px;
         font-weight: bold;
     }
